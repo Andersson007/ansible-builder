@@ -12,8 +12,8 @@ Code of Conduct
 All communication and interactions in the Ansible Builder community are governed by the `Ansible code of conduct <https://docs.ansible.com/ansible/devel/community/code_of_conduct.html>`_. Please read and abide by it!
 Reach out to our community team at `codeofconduct@ansible.com <mailto:codeofconduct@ansible.com>`_ if you have any questions or need assistance.
 
-Forum
-=====
+Ansible Forum
+============
 
 Join the `Ansible Forum <https://forum.ansible.com>`_, the default communication platform for questions and help, development discussions, events, and much more. `Register <https://forum.ansible.com/signup?>`_ to join the community. Search by categories and tags to find interesting topics or start a new one; subscribe only to topics you need!
 
