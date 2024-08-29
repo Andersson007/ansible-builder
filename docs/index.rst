@@ -109,7 +109,7 @@ Collection maintainers can learn to correctly declare dependencies for their col
    :caption: Contents:
 
    self
-   communication
+   community
    installation
    definition
    usage
