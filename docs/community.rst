@@ -1,8 +1,8 @@
-.. _communication:
+.. _community:
 
-*************
-Communication
-*************
+*********
+Community
+*********
 
 We welcome your feedback, questions and ideas. Here's how to reach the community.
 
