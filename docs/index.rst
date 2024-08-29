@@ -16,7 +16,7 @@ ansible-core you want, and installing only the Python packages, system packages,
 
 .. note::
 
-  Need help or want to discuss Ansible Builder including the documentation? See the :ref:`Communication guide<communication>` to learn how to join the conversation!
+  Need help or want to discuss Ansible Builder including the documentation? See the :ref:`Community guide<community>` to learn how to join the conversation!
 
 .. contents::
    :local:
