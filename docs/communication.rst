@@ -15,7 +15,7 @@ Reach out to our community team at `codeofconduct@ansible.com <mailto:codeofcond
 Forum
 =====
 
-Join the `Ansible Forum <https://forum.ansible.com>`_ as a single starting point and our default communication platform for questions and help, development discussions, events, and much more. `Register <https://forum.ansible.com/signup?>`_ to join the community. Search by categories and tags to find interesting topics or start a new one; subscribe only to topics you need!
+Join the `Ansible Forum <https://forum.ansible.com>`_, the default communication platform for questions and help, development discussions, events, and much more. `Register <https://forum.ansible.com/signup?>`_ to join the community. Search by categories and tags to find interesting topics or start a new one; subscribe only to topics you need!
 
 * `Get Help <https://forum.ansible.com/c/help/6>`_: get help or help others. Please add appropriate tags if you start new discussions, for example `ansible-builder`, `ee`, and  `documentation`.
 * `Posts tagged with 'ansible-builder' <https://forum.ansible.com/tag/ansible-builder>`_: subscribe to participate in project-related conversations.
