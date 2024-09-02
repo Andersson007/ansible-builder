@@ -15,7 +15,7 @@ https://ansible-builder.readthedocs.io/en/stable/
 ## Get Involved:
 
 * We welcome your feedback, questions and ideas.
-  See our [Communication guide](https://ansible.readthedocs.io/projects/builder/en/latest/installation/)
+  See our [Communication guide](https://ansible.readthedocs.io/projects/builder/en/latest/community/)
   to learn how to join the conversation.
 * We use [GitHub issues](https://github.com/ansible/ansible-builder/issues) to
   track bug reports and feature ideas.
