@@ -24,8 +24,3 @@ Join the `Ansible Forum <https://forum.ansible.com>`_, the default communication
 * `News & Announcements <https://forum.ansible.com/c/news/5>`_: track project-wide announcements including social events.
 
 For more information on the forum navigation, see `Navigating the Ansible forum <https://forum.ansible.com/t/navigating-the-ansible-forum-tags-categories-and-concepts/39>`_ post.
-
-Libera.Chat IRC
-===============
-
-Real-time conversations happen in the ``#ansible-builder`` Libera.Chat IRC channel.
