@@ -2,7 +2,7 @@
 
 If you are looking for community support, please visit
 the [Community guide](https://ansible.readthedocs.io/projects/builder/en/latest/community/)
-for information how to reach out to us.
+for information on how to get in touch.
 
 ## Things to Know Before Submitting Code
 
